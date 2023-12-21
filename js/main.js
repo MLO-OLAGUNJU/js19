@@ -1,4 +1,9 @@
 // Javascript Errors and Error Handling
 "use strict";
-const variable = "Manny";
-console.log(variable);
+
+/*// Reference error
+variable = "Manny";
+console.log(variable);*/
+
+//Syntax Error
+Object..create();
